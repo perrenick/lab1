@@ -1,3 +1,6 @@
+#ΝΙΚΟΛΑΣ ΠΕΡΡΕΑΣ:1075490
+#url στο παραδειγμα μου:https://www.google.com/
+
 import requests
 
 def get_url():
